@@ -1,11 +1,11 @@
-package au.com.sensis.grails;
+package au.com.sensis.grails
 
 import org.apache.commons.logging.LogFactory
 import org.grails.plugin.resource.mapper.MapperPhase
 
 class StaticContentResourceMapper {
 
-    def log = LogFactory.getLog(StaticContentResourceMapper)
+    def log = LogFactory.getLog(getClass().name)
 
     def phase = MapperPhase.DISTRIBUTION
 
