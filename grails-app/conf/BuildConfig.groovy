@@ -24,8 +24,6 @@ grails.project.dependency.resolution = {
             exclude "spock-grails-support"
         }
 
-        compile(":resources:1.1.6") {
-            export = false
-        }
+        compile ":resources:1.2"
     }
 }

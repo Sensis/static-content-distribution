@@ -1,7 +1,6 @@
 class StaticContentDistributionGrailsPlugin {
     def version = "0.1"
     def grailsVersion = "2.0 > *"
-    def dependsOn = [resources:'1.1.6 > *']
     def loadAfter = ['resources']
 
     def title = "Static Content Distribution Plugin"
