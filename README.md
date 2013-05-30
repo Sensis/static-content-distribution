@@ -11,8 +11,9 @@ Install
 This plugin is hosted on Grails Plugins Central so add it to your BuildConfig.groovy file as follows:
 
 ```groovy
-Plugin:
-compile ':static-content-distribution:0.1.sensis'
+plugins {
+    compile ':static-content-distribution:0.1.sensis'
+}
 ```
 
 Configuration
