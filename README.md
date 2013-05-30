@@ -12,7 +12,7 @@ This plugin is hosted on Grails Plugins Central so add it to your BuildConfig.gr
 
 ```groovy
 plugins {
-    compile ':static-content-distribution:0.1.sensis'
+    compile ':static-content-distribution:0.1'
 }
 ```
 
