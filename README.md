@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Sensis/static-content-distribution.png?branch=master)](https://travis-ci.org/Sensis/static-content-distribution)
+
 Static Content Distribution
 ===========================
 
